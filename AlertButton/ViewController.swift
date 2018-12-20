@@ -12,6 +12,8 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        
         // Do any additional setup after loading the view, typically from a nib.
     }
 
@@ -23,6 +25,9 @@ class ViewController: UIViewController {
         alert.addAction(action)
         
         present(alert, animated: true, completion: nil)
+        // este es un ejemplo omitir
+         // let today = NSDate()
+       // print(today)
     }
     
     

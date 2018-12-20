@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -42,6 +42,7 @@
 				8DCBE05821CC247700F57E7C /* Products */,
 			);
 			sourceTree = "<group>";
+			usesTabs = 0;
 		};
 		8DCBE05821CC247700F57E7C /* Products */ = {
 			isa = PBXGroup;
@@ -100,7 +101,7 @@
 				};
 			};
 			buildConfigurationList = 8DCBE05221CC247600F57E7C /* Build configuration list for PBXProject "AlertButton" */;
-			compatibilityVersion = "Xcode 9.3";
+			compatibilityVersion = "Xcode 10.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
