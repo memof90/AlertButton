@@ -1,0 +1,1 @@
+este es un ejmplo de como crear alertas en ios 12 modificando una linea de codigo de como subir un documento desde xcode a gitHub
